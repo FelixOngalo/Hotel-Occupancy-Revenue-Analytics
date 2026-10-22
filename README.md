@@ -100,7 +100,7 @@ This project demonstrates practical skills in:
 - Revenue management analysis
 - Business-oriented interpretation of data
 
-Future Improvements
+## Future Improvements
 
 Future versions could extend the project by incorporating:
 
